@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Home Page</h1>
+<!-- navbar => links at left| logo | rss + theme toggler-->
+<!-- who i am -->
+<!-- picture -->
+<!-- small description -->
+<!-- contact and social media -->
+<!-- made by Majd -->
