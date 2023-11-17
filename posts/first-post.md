@@ -3,7 +3,8 @@ title: Why I created this blog
 description: Learn how to build a blazingly fast and extendable SvelteKit Markdown blog for poets.
 slug: why-i-created-thi-blog
 published: '2023-09-08'
-category: sveltekit
+category: ["sveltekit", "JavaScript"]
+draft: true
 ---
 
 ## Table of Contents
