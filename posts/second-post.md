@@ -3,7 +3,8 @@ title: My Journey to Becoming a Software Developer
 description: Learn about my journey to becoming a software developer and the lessons I learned along the way.
 slug: my-journey-to-becoming-a-software-developer
 published: '2023-09-15'
-category: sveltekit
+category: ["sveltekit", "JavaScript"]
+draft: false
 ---
 
 ## Table of Contents
