@@ -4,5 +4,9 @@ export default {
 	theme: {
 		extend: {}
 	},
-	plugins: [require('daisyui')]
+	// require('@tailwindcss/forms'),
+	plugins: [require('@tailwindcss/typography'), require('daisyui')],
+	daisyui: {
+		themes: ['light', 'dark', 'cupcake']
+	}
 };
